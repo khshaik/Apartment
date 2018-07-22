@@ -1,0 +1,83 @@
+Instructions
+
+
+Duration: 2 Hours
+
+
+1. Problem must be solved and saved as a "Java Project" in Eclipse.
+
+2. User Interface and Database is not required.
+
+3. Design and code should be best optimized.
+
+4. Input/s can be fetched from static data or system in.
+
+5. Output/s must be displayed on console or in file.
+
+6. Use proper naming conventions.
+
+7. Use OOPS concept wherever possible.
+
+8. No Third-Party library should be used only JDK library.
+
+9. No usage of Internet is allowed.
+
+
+Software required: JDK 8, Eclipse
+
+
+Problem/Assignment: Apartment management system (applying OOPS/OOD concepts)
+
+
+An apartment provides following additional services with a price list.
+
+1. Gym
+
+2. Swimming pool
+
+3. Club
+
+4. Power backup
+
+5. Two-wheeler parking
+
+6. 4-wheeler parking
+
+7. second car parking
+
+8. Maintenance
+
+9. Security
+
+
+Apartment offers 3 types of membership
+
+1. basic
+
+3. deluxe
+
+2. elite
+
+
+Basic members get services # 8, 9
+
+Deluxe members get services Basic + #5,6
+
+Elite members get services Deluxe + # 1, 2, 3
+
+
+Any member can add a top up service which is not included in the package
+
+
+Create a system where in any member can register for the membership (this is mandatory) and opt for additional services.
+
+At the month generate the bill for all flat members based on the default and services they opt for.
+
+User interface is not important.
+
+Note: Assuming that flats are owned by the members and there is no restriction on the parking space.
+
+
+Write required code/class, model, hierarchy and other code based on Java coding standards
+
+Focus on approach, design to provide good technical solution.
