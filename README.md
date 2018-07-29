@@ -1,2 +1,2 @@
-# Apartment
-Apartment UseCase
+# Facilities
+Facilities UseCase
